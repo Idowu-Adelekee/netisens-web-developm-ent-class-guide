@@ -135,7 +135,7 @@ d.) State
 e.) Virtual DOM
     Definition: A lightweight copy of the actual DOM.
     Benefits: Improves performance by minimizing direct DOM manipulations.
-    React’s Virtual DOM helps in making the UI rendering more efficient by updating only the necessary parts.
+    React’s Virtual DOM helps in making the UI rendering more efficient by updating only the necessary parts., 
 f.) Lifecycle Methods (Class Components)
     Examples: componentDidMount, shouldComponentUpdate, componentWillUnmount.
     Usage: Manage side effects and optimize performance.
