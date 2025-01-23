@@ -2,6 +2,9 @@ let singleQuoteString = 'Hello, World!';
 let doubleQuoteString = "Hello, World!";
 let backtickString = `Hello, World!`;
 
+console.log(window)
+console.log(global)
+
 // String Methods
 // JavaScript provides various methods to manipulate and interact with strings. 
 // Here are some of the most common string methods:
